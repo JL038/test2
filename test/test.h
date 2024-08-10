@@ -3,7 +3,7 @@
 //  test
 //
 //  Created by 江口柱利 on 2024/07/31.なんですのん???
-//　なにがですのん???
+//　なにがですのん???new!
 //
 
 #import <Foundation/Foundation.h>
