@@ -2,7 +2,7 @@
 //  test.h
 //  test
 //
-//  Created by 江口柱利 on 2024/07/31.なんですのん
+//  Created by 江口柱利 on 2024/07/31.なんですのん???
 //
 
 #import <Foundation/Foundation.h>
